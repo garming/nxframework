@@ -2,11 +2,7 @@
   "config": {
 
   },
-  "repositories": [
-    {"type": "composer", "url": "http://pkg.phpcomposer.com/repo/packagist/"},
-    {"packagist": false}
-  ],
-
   "require": {
+    "nxlib/mvc":  "~1.0"
   }
 }

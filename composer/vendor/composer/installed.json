@@ -1,0 +1,43 @@
+[
+    {
+        "name": "nxlib/mvc",
+        "version": "v1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/garming/nx-core.git",
+            "reference": "68cfe119f2dd396c76ea107106618309cb2dba3b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/garming/nx-core/zipball/68cfe119f2dd396c76ea107106618309cb2dba3b",
+            "reference": "68cfe119f2dd396c76ea107106618309cb2dba3b",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.0.0"
+        },
+        "time": "2016-11-18 02:25:52",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "NxLib\\Core\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Garming Lau",
+                "email": "garming@msn.com"
+            }
+        ],
+        "description": "nxlib-mvc",
+        "keywords": [
+            "php-mvc"
+        ]
+    }
+]
